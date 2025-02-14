@@ -12,8 +12,8 @@ body {
 }
 
 .container {
-    width: 200px;
-    height: 200px;
+    width: 150px;
+    height: 150px;
     position: relative;
     display: flex;
     align-items: center;
@@ -71,7 +71,7 @@ body {
         box-shadow: 0 0 10px 3px #00c9ff;
     }
     50% {
-        box-shadow: 0 0 20px 8px #00c9ff;
+        box-shadow: 0 0 15px 8px #00c9ff;
     }
     100% {
         box-shadow: 0 0 10px 3px #00c9ff;
